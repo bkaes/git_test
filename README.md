@@ -1,0 +1,1 @@
+git@github.com:bkaes/git_test.git
